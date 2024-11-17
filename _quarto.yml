@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Grey Shield Research LLC"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Services"
+        href: Services.qmd
+      - text: "Work Samples"
+        href: Publications.qmd
+      - text: "Contact"
+        href: Contact.qmd
+format:
+  html:
+    theme: United
+    css: styles.css
+    toc: true
+
+editor: visual
+

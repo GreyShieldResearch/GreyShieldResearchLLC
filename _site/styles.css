@@ -1,0 +1,19 @@
+/* css styles */
+body {
+    background-color: #f0f0f0; /* Light gray color */
+}
+
+/* Set the banner to gray */
+.quarto-navbar, .navbar, .quarto-navbar-brand {
+    background-color: #b0b0b0; /* Medium gray */
+    color: white; /* Text color for contrast */
+}
+
+/* Optional: Style the text links in the navbar */
+.quarto-navbar a, .navbar a {
+    color: white; /* Set link color to white */
+}
+
+.quarto-navbar a:hover, .navbar a:hover {
+    color: #e0e0e0; /* Lighter gray on hover for effect */
+}

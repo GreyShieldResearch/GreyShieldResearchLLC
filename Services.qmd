@@ -1,0 +1,25 @@
+---
+title: "Services"
+---
+
+# Let Us Do The Data!
+
+At **Grey Shield Research LLC**, we offer a range of services designed to meet the unique needs of each client. Our areas of expertise includes:
+
+## Service Offerings
+
+### Data Cleaning for Criminal Justice
+
+Does your data come to you in a format that is less than optimal for your organization? Is it a bit messy or come from outdated software? Whether you need complete conversion from paper to excel or PDF to SPSS, we can assist you with data cleaning and management.
+
+### Data Analysis & Policy Recommendations
+
+Whether you need simple population statistics, or complicated statistical analysis, we can offer the right solutions for your organization.
+
+### Academia
+
+Are you a university or academy who needs a guest lecturer? Whether for one day or an entire semester, I can speak to your students about any range of post-arrest criminal justice subjects, as well as statistics and methods. I can appear virtually or in-person.
+
+Explore how our services can benefit you, and reach out to us to discuss your specific needs.
+
+![](Mascot%20-%20Computer.jpg){fig-align="center" width="156"}
