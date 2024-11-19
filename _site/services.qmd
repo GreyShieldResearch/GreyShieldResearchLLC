@@ -1,8 +1,0 @@
----
-title: "Grey Shield Research LLC - Services"
-format: html
----
-
-# Services
-
-Henlo Rabbit, this is a placeholder.
